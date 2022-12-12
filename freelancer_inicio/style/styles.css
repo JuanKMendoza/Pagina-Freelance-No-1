@@ -1,0 +1,25 @@
+:root {
+    --animated-color-1: #00ccff;
+    --animated-color-2: #d400d4;
+    --principal: #15354F;
+    --border-width: 100px;
+    --c-height: 400px;
+}
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16 px; /** 1rem = 10 px **/
+    font-family: 'Krub', sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 3.8rem;
+    
+}
+
+.titulo span {
+    font-size: 2rem;
+}
